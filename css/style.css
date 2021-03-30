@@ -1,0 +1,35 @@
+.fundo{
+    background: url("../img/breaking-bad1.0.jpg");
+}
+
+div p {
+    color: blanchedalmond;
+}
+
+div h4 {
+    color: blanchedalmond;
+}
+
+#n3 p{
+    color: rgb(0, 0, 0);
+}
+
+#n3{
+    color: rgb(0, 0, 0);
+}
+
+.img-serie{
+    height: 334px;
+    width: 230px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #575656;
+}
+
+.p1{
+    text-align: left;
+    color: black;
+}
+
+.col{
+    padding: 10px;
+}
